@@ -16,7 +16,7 @@ public class Main {
 
    
     public static void main(String[] args) {
-       
+       //zadanie 2
        int a;
         
         Random losujLiczby = new Random();
@@ -42,7 +42,7 @@ public class Main {
    
    TreeSet drzewo2 = new TreeSet <> ();
    
-
+   //zadanie 3
     ArrayList<Samochod> samochody = new ArrayList<Samochod>();
     Samochod s1 = new Samochod();
     s1.setCena(3000);

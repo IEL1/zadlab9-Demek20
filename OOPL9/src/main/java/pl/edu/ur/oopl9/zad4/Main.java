@@ -17,6 +17,7 @@ public class Main {
     
     public static void main(String[] args) 
     {
+        //zadanie 4
         HashMap<String,String> mymap = inicjujMape();
         Scanner scanner = new Scanner(System.in);
         while(true)
